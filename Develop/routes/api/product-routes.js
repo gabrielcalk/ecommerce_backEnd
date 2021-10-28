@@ -101,6 +101,10 @@ router.put('/:id', (req, res) => {
     });
 });
 
+/**
+ * @async
+ * Finding one Product by ID and delete it.
+ */
 router.delete('/:id', async (req, res) => {
   try{
     const product_del = await Product.destroy({
@@ -112,7 +116,7 @@ router.delete('/:id', async (req, res) => {
     : res.status(400).json({message: 'No Product Id found'})
   }catch(err){
     res.status(400).json(err)
-  }// delete one product by its `id` value
+  }
 });
 
 module.exports = router;
