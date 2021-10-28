@@ -4,25 +4,26 @@
 <img src='https://img.shields.io/badge/license-MIT-yellow'>
     
 
-# link: made with node.js (no link)
-    
-
 ## *Table of Contents*
 - [Description](#description)
 - [Technologies](#technologies)
 - [Author's](#authors)
 - [Usage](#usage)
 - [Questions](#questions)
+- [License](#license)
     
 
 
 ## *Description*
-This project generate one readme file with the informations that we provide. The whole project was created with node.js, so please make sure (if you want use) that clone this repo and do a "npm i" to install the node.js modules.
+In this project I used: NODE.js (Express, Sequelize, mysql2, Dotenv) and MySQL. 
+
+The objective of this project was to create the entire structure of managing products, categories and tags for an ecommerce. With it, you will be able to select products, create products, change them and even delete them, this is also true for the tags and categories of the same.
+
 
 
 
 ## *Technologies*
-JavaScript, Node.js, Inquirer, Nodemon
+NODE.js (Express, Sequelize, mysql2, Dotenv) and MySQL. 
 
 
 
@@ -32,16 +33,10 @@ Gabriel Cavalcante Causin
 
 
 ## *Usage*
-Go to 'code' and copy the link of this repo, open the git bash, type "git clone" and add the link that you coppied. One folder with the same name of this repo should be on that folder. After that, just open the files on VSC (visual studio code), open the terminal, do 'npm i' and use the program typing node index.js. Just follow the questions and your project will be done.
-
-Video Explaning How To Use: https://www.youtube.com/watch?v=54zpBTX3gRQ
-
-1) ![image](https://user-images.githubusercontent.com/89816900/137398450-5eca1671-0ad8-4ea2-8740-c9ab888fbb1e.png)
-
-2) ![image](https://user-images.githubusercontent.com/89816900/137398372-fd09ae8d-3fe1-4908-affb-02990e8adc6e.png)
-
-3) Answer the questions: 
-![image](https://user-images.githubusercontent.com/89816900/137398249-c8ba2eaa-e5cc-4bb1-8ac8-8d284b44fed3.png)
+First Step (on the main folder)
+///
+npm i 
+///
 
 
 ## *Questions*
@@ -49,4 +44,12 @@ For Any Questions About The Project, Please Contact Me In:
 gabrielcalk@outlook.com
 
 Don't forget to follow me on my GitHub: https://github.com/gabrielcalk
+
+
+## *License*
+Copyright 2021 Gabriel Cavalcante Causin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
