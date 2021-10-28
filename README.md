@@ -34,9 +34,9 @@ Gabriel Cavalcante Causin
 
 ## *Usage*
 First Step (on the main folder)
-///
+'''
 npm i 
-///
+'''
 
 
 ## *Questions*
