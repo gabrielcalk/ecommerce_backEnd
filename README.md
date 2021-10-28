@@ -1,7 +1,7 @@
 # ecommerce_backEnd (Object Relational Mapping)
 
 
-<img src='https://img.shields.io/badge/mit-license-yellow'>
+<img src='https://img.shields.io/badge/license-MIT-yellow'>
     
 
 # link: made with node.js (no link)
