@@ -33,11 +33,22 @@ Gabriel Cavalcante Causin
 
 
 ## *Usage*
-First Step (on the main folder)
+1) First Step (on the main folder):
 
 ```
 npm i 
 ```
+2) Second Step: 
+Open Source API Client, and Collaborative API Design Platform for REST, SOAP, GraphQL, and GRPC.
+
+3) You Can Acess This Routes:
+- /api/products
+- /api/tags
+- /api/categories
+- /api/products/:id (DELETE and PUT)
+- /api/tags/:id (DELETE and PUT)
+- /api/categories/:id (DELETE and PUT)
+
 
 
 ## *Questions*
@@ -45,6 +56,7 @@ For Any Questions About The Project, Please Contact Me In:
 gabrielcalk@outlook.com
 
 Don't forget to follow me on my GitHub: https://github.com/gabrielcalk
+
 
 
 ## *License*
